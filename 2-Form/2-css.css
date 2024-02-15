@@ -1,0 +1,25 @@
+main {
+    background: linear-gradient(70deg, #F298DE, #FDC5C5);
+}
+
+h1 {
+    color: #333333;
+}
+
+p {
+    color: #666666;
+}
+
+a {
+    color: #089FE0;
+}
+
+button {
+    background-color: #089FE0;
+    color: #FFFFFF;
+}
+
+input {
+    background-color: #F5F5F5;
+    color: #333333;
+}
